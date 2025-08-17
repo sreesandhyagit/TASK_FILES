@@ -1,0 +1,1 @@
+print("This file is created after creating a repository in git hub")
